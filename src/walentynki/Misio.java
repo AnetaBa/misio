@@ -12,7 +12,7 @@ public class Misio extends Applet
 	public void init()
 	{
 		applet.setSize(500,400);
-		applet.setBackground(Color.RED);	
+		applet.setBackground(Color.GREEN);	
 	}
 	
 	public void paint(Graphics g)
